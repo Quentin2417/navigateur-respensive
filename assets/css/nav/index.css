@@ -75,9 +75,9 @@ header {
         background-color: black;
         position: fixed;
         left: -100vw;
-        top: 73.6px;
+        top: 49.6px;
         width: 100vw;
-        height: calc(100vh - 73.6px);
+        height: calc(100vh - 49.6px);
         display: flex;
         flex-direction: column;
         align-items: center;

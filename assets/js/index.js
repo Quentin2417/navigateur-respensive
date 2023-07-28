@@ -1,5 +1,5 @@
-let hamMenuIcon = document.getElementById("ham-menu");
-let navBar = document.getElementById("nav-bar");
+let hamMenuIcon = document.querySelector("#ham-menu");
+let navBar = document.querySelector("#nav-bar");
 let navLinks = navBar.querySelectorAll("li");
 hamMenuIcon.addEventListener("click", () => {
   navBar.classList.toggle("active");

@@ -1,4 +1,4 @@
-@import url(./nav/reset/reset.css);
-@import url(./nav/index.css);
+@import url(./reset/reset.css);
 @import url(./global/index.css);
+@import url(./nav/index.css);
 
